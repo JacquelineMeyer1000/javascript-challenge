@@ -1,4 +1,7 @@
 # javascript-challenge
+Here is the website: https://jacquelinemeyer1000.github.io/javascript-challenge.io/
+
+## Background
 First, write code that will create a table based upon a given dataset. Second, allow users to filter the table data for specific values. This is done by only using JavaScript, HTML, and CSS, and D3.js on our web pages. 
 
 ### Level 1: Automatic Table and Date Search (Required)
